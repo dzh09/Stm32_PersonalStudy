@@ -1,8 +1,8 @@
 ***PWM 脉冲宽度调制***
 
-![image-20260102210730910](C:\Users\Dzh19\AppData\Roaming\Typora\typora-user-images\image-20260102210730910.png)
+![](PWM 脉冲宽度调制.assets/屏幕截图 2026-03-27 141006.png)
 
-![](../../Pictures/Screenshots/屏幕截图 2026-01-15 153841.png)
+![](PWM 脉冲宽度调制.assets/屏幕截图 2026-01-15 153841.png)
 
 占空比 = Ton/Ts
 
